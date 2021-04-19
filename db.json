@@ -1,0 +1,23 @@
+{
+    "posts": [
+      {"id": 0 ,"name": "alpha"   , "count": 0},
+      {"id": 1 ,"name": "bravo"   , "count": 0},
+      {"id": 2 ,"name": "charlie" , "count": 0}, 
+      {"id": 3 ,"name": "delta"   , "count": 0}, 
+      {"id": 4 ,"name": "echo"    , "count": 0},
+      {"id": 5 ,"name": "foxtrot" , "count": 0},
+      {"id": 6 ,"name": "golf"    , "count": 0},
+      {"id": 7 ,"name": "hotel"   , "count": 0} 
+    ],
+
+    "comments": [
+        { "id": 0, "body": "soadamade commenta sdasd", "postId": 1 },
+        { "id": 1, "body": "some comm adasdaent", "postId": 1 },
+        { "id": 2, "body": "sdasdome ad asdasd", "postId": 1 },
+        { "id": 3, "body": "asdasdasome comsdadasdasda asdasdasda da da sdas dasda asd asda d asd asment", "postId": 2 },
+        { "id": 5, "body": "soadasdme comasdasdadasdament", "postId": 2 },
+        { "id": 6, "body": "soadme comada adas dasd a adasd ad asdment", "postId": 4 },
+        { "id": 8, "body": "somade comad ad asd asd asd asd asment", "postId": 6 },
+        { "id": 9, "body": "somadasde coasda asd adsaada sd asa sda wafas asd asd ad asd asdas damment", "postId": 6 }
+      ]
+}
